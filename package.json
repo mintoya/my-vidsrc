@@ -1,5 +1,8 @@
 {
   "engines": {
     "node": "18.x"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
